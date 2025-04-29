@@ -1,4 +1,6 @@
 # TOP HEADING 
 
 ## Dummy Heading
-Fill this with information.
+Glenn Theunissen,
+Chris Oliver,
+Brandyn Petrillo
