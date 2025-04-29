@@ -58,7 +58,7 @@ Read the design justification [here](project_justification.md).
 
 ---
 
-[//]: ### Schedule of Rates
+### Schedule of Rates
 Our Team leader, Mr. Boss Man, has an hourly rate of $2500 for overseeing project infrastucte and task deligation
 Our remaining team members hourly rate will be $30 per hour for 20 hours per week working on the project
 
