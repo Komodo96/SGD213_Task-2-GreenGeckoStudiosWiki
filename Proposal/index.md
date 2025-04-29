@@ -11,7 +11,7 @@ RUIN
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-The Client is looking for an FPS template that can be used for their classes. As they are strapped on time they need another team to handle the basic template for this project. The client is looking for an FPS style game in the same vein as Doom, Halo and Duke Nukem. The template should have basic enemy AI that walks around and looks at the player when in range. The player will have two guns they can switch between, be able to throw a grenade and some basic movement that inlcudes walking and jumping.
+The Client is looking for an FPS template that can be used for their classes. As they are strapped on time they need another team to handle the basic template for this project. The client is looking for an FPS style game in the same vein as Doom, Halo, Quake and Duke Nukem. The template should have basic enemy AI that walks around and looks at the player when in range. The player will have two guns they can switch between, be able to throw a grenade and some basic movement that inlcudes walking and jumping.
 
 ### Begin Date
 
@@ -67,13 +67,9 @@ Our remaining team members hourly rate will be $30 per hour for 20 hours per wee
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
 | Planning Phase | 29/04/25 |
-| --- | --- |
 | Pre-production Phase | 04/05/25 |
-| --- | --- |
 | Production Phase | 18/05/25 |
-| --- | --- |
 | Testing Phase | 25/05/25 |
-| --- | --- |
 | Prototype | 01/06/25 |
 
 ---
