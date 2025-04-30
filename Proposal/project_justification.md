@@ -118,13 +118,16 @@ The client is looking for an FPS template that can be used for their classes
 
 ### Constraints
 [//]: # (What are the constraints of this project)
-* We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
+* We have a limited amount of time to complete this project and deliver the prototype to the client
+* We have a limited budget to work with as we are a small team which makes procuring outside resources an issue
+* Our team is made up of new and upcoming coders so are technical skills are still developing
+* The project is restricted to an FPS type
+* The project is restricted to PC platforms 
 
 ---
 
 ## Justification
-We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
-
-The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
-
-etc. Explain your design decisions in regards to the client's requirements.
+We decided to make a project that resembles early First Person Shooters, as per the clients request, and the name of the project serves as an homage to the title DOOM. We wanted to create a strong FPS
+base template that could fit our clients needs, with modularity being a big focus across the board. This allows our client to customise their game's experience to their preference with an emphasis on building
+a strong core for future development of their game. The game features many traditional systems that you would see in classic shooters like swapping weapons, movement. throwing grenades and AI enemies that can 
+track the player. These will be built with component patterns and professional coding standards in mind. This allows for a highly customisable and enjoyable experience for our client. 
