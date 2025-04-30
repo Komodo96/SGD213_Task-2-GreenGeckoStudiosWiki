@@ -78,7 +78,6 @@ As an incentive to work towards certain stretch goals we would expect a flat fee
 Work will be completed to fit the provided Statement of Works, any work outside of this arrangement will be billed at our hourly rate, or, quoted separately.
 
 ## Signatures
-[//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
 | Client Name | Date | Signature |
 | --- | --- | --- |
 | Daniell McConnell | 12-34-5678 | ________ |
