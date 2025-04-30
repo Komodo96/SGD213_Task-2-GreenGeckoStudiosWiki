@@ -46,14 +46,14 @@ Read the design justification [here](project_justification.md).
 * The Project will be delivered on time
 * Communicate with the client on important updates
 * Our team will communicate with the client when issues are encountered
-* Quality transparent project management (add the client)
+* The client will be added to the project to ensure quality transparent project management
 * The game does not need any finalised assets, however greyboxes will be used as placeholders for characters and weapons
 * If time permits the game will have basic audio components in place
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
 * The UI design will be fairly basic with simple shapes being utilised 
-* Health will be indicated by a bar for the player and the ammmo will be indicated by numbers on the HUD
+* Health will be indicated by a bar for the player and the ammo will be indicated by numbers on the HUD
 * The AI is already in the level/Spawned in? 
 
 ---
@@ -66,6 +66,8 @@ Our remaining team members hourly rate will be $30 per hour for 20 hours per wee
 ## Milestones
 [//]: # (Breakdown of phases of development, with estimated delivery times)
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
+| Production Phase | Completion Date |
+| --- | --- |
 | Planning Phase | 29/04/25 |
 | Pre-production Phase | 04/05/25 |
 | Production Phase | 18/05/25 |
