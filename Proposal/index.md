@@ -82,7 +82,7 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 [//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
 | Client Name | Date | Signature |
 | --- | --- | --- |
-| Daniell | 12-34-5678 | ________ |
+| Daniell McConnell | 12-34-5678 | ________ |
 
 | Team Rep. | Date | Signature |
 | --- | --- | --- |
