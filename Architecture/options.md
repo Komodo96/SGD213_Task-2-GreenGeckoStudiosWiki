@@ -10,9 +10,7 @@ Hot tip: use our text book for guidance.
 
 Component Pattern.
 
-Object Pool Pattern.
-
-State Pattern. 
+Singleton Pattern.
 
 ## Dummy Heading
 Fill this with information.
