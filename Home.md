@@ -2,7 +2,7 @@
 
 ## Introduction
 This wiki discusses the client requirements for the RUIN project.
-This project is being completed by Green Gecko Studios for Olexiy Telyakov.
+This project is being completed by Green Gecko Studios for Daniell.
 The handover date for the project is the 1st of June 2025.
 
 ## Table of Contents
