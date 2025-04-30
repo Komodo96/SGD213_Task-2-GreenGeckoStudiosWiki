@@ -5,26 +5,65 @@
 
 ### Brief
 [//]: # (What was the client's brief?)
-The client is seeking a proof of concept for a game that is simple, yet a leader in its class
-* Users should be drawn to the game by its eye-catching visuals
-* The audio in the game should be exciting and drive the player's emotion
+The client is looking for an FPS template that can be used for their classes
+* The player needs to be able to walk around and jump
+* The game needs 2 weapons 
 * The gameplay should be fast-paced, quick to gain feedback and quick to retry
 
 ### Communication
-* When do you need this prototype by?
-> I need the prototype by Friday Week 13.
+* Do you have a name for the project or would you like our team to come up with a name?
+> You are free to use a work-in-progress name for the project, as it would be changed later.
 
-* What kind of games do you think are good?
-> Couch coop games appear to be simple enough to develop and can move reasonable units if done well.
+* What games other than Doom, Halo and Quake inspired you to make an FPS?
+> You could look at later Doom-clones (Boltgun, Dusk, etc.) as well, though they all build on a similar template
 
-* Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
-> Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
+* Do you have any specific requirements that need to be met in your game? E.g. Would you like the game to feel slow and tactical or fast paced and frantic?
+> Most of the values that define the gameplay as you describe - movement speed, camera control, enemy spawns, etc. - should be available to be changed in editor, so you are free to pick a direction for the in-progress project
 
-* Do you need a menu system?
-> Well I need to be able to take this to potential investors to sell the idea. If I need to quit out of it every time I finish that will not work. It will need basic UI functionality, pausing, quitting out of game, exiting the application, returning to main menu, playing the game from main menu.
+* What aesthetic does your game need?
+> Your submission won't need any final assets, so even basic 2D/3D assets will do for the time being. Final assets and aesthetics are something I would implement later.
 
-* Are there any themes you think are popular or you would like to see in your game?
-> Hmm... not really. I do like dragons though! I think silly games catch people's eyes?
+* What expectations do you have of our team and how we deliver our prototype to you?
+> My expectations would be you continue to communicate on important updates and deliver it on time haha!
+
+* Does your game require audio?
+> A basic audio setup for the essential interactions would be nice, though it could be moved to a stretch goal if you require more time on other features.
+
+* Does your game require assets to be outsourced or would you be happy for us to use grey boxes/placeholders?
+> As in prior note, placeholder and greyboxes are sufficient.
+
+* Does your game need UI elements? 
+> Simple UI/HUD elements would be great: ammo and health counters, and a basic menu with some options like sound, though it could also be a stretch goal to be implemented if the time allows.
+
+* Does your game have an established lore or universe that it takes place in?
+> Similar to aesthetics, lore is something that would be added much later.
+
+* Does your game need a menu?
+> A simple Main Menu with a Start and Exit would be a minimum.
+
+* Is there a specific thing you wish the enemy ai to do other than “look at the player”? For example, is the ai on a set path or are they moving freely? Does the enemy chase the player when they spot them?
+> The enemies should walk around the level, though if you have the time to implement both free roam and patrol behaviours, that would be great.
+
+* What types of weapons do the players have. Do they fire slowly, fire multiple projectiles, a big projectile, or fire quickly?
+> Gun behaviour should be customizable from the Editor, so you feel free to experiment with the guns you give the player.
+
+* What kind of grenade is it, what does it do? Does it damage nearby enemies, does it obscure the enemy's vision for a time, does it heal? How does it do this and when?
+> A simple area of effect damaging grenade will do: much like the guns, most of its variables should be exposed in editor, so you can experiment with specific values (damage, if there is a delay after being thrown, etc.)
+
+* What kind of movement are you looking for? Does it include running, jumping, crouching? Or is it simply just walking?
+> The player should be able to walk around and jump.
+
+* Do you want a visual for the weapons available on the character?
+> As with other assets, feel free to use placeholder/greybox for the guns in the prototype.
+
+* Do we need the player to start with both weapons or pick a new one up to be able to swap?
+>
+
+* Are there any other pickups you would like implemented?
+>
+
+* Are the AI already in the level or do they spawn in?
+>
 
 ---
 
