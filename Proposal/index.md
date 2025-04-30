@@ -29,7 +29,7 @@ Read the design justification [here](project_justification.md).
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks
+* Needs the product in under 5 weeks
 * The client has given our team freedom for how the game will feel. All values that define gameplay such as movement speed will be changeable by the client in the editor
 * The game will have simple UI elements such as Health and Ammo count
 * There will be a Main Menu with Start and Exit options
