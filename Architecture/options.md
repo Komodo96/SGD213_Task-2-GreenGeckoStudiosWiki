@@ -8,9 +8,11 @@ You should also justify your thinking.
 
 Hot tip: use our text book for guidance.
 
-Component Pattern
-Object Pool Pattern 
-State Pattern 
+Component Pattern.
+
+Object Pool Pattern.
+
+State Pattern. 
 
 ## Dummy Heading
 Fill this with information.
