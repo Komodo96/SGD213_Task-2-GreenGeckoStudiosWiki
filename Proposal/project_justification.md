@@ -71,13 +71,15 @@ The client is looking for an FPS template that can be used for their classes
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* Needs the product in 5 weeks
+* The client has given our team freedom for how the game will feel. All values that define gameplay such as movement speed will be changeable by the client in the editor
+* The game will have simple UI elements such as Health and Ammo count
+* There will be a Main Menu with Start and Exit options
+* The AI controlled enemies will walk around the level and look at the player. As a stretch goal they will use patrol and free roam behaviours
+* How the guns behave will be customisable in the editor (Fire rate, projectile speed etc.)
+* The player will be able to walk around and jump
+* The player will be able to toss a Area of Effect grenade that deals damage
+* A basic menu with options like sound can be added if time permits
 
 ### Expectations
 [//]: # (What are the client's expectations?)
