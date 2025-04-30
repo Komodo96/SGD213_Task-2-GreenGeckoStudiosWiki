@@ -57,8 +57,7 @@ Read the design justification [here](project_justification.md).
 ---
 
 ### Schedule of Rates
-Our Team leader, Mr. Boss Man, has an hourly rate of $2500 for overseeing project infrastucte and task deligation. 
-Our remaining team members hourly rate will be $30 per hour for 20 hours per week working on the project. 
+Our team members hourly rate will be $30 per hour for 20 hours per week working on the project. 
 As an incentive to work towards certain stretch goals we would expect a flat fee of $200 per stretch goal upon completion. 
 
 
@@ -86,4 +85,4 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 
 | Team Rep. | Date | Signature |
 | --- | --- | --- |
-| Boss Man | 12-34-5678 | ________ |
+| Glenn Theunissen | 12-34-5678 | ________ |
