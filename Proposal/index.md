@@ -1,8 +1,6 @@
 # Project Overview
 [//]: # (This section is an example structure for the proposal to your client.)
 
->This is all sample material in here, to give you an idea on how and what to populate each section with. If you think of other sections or a different document layout, please do use it!
-
 ## Design
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
 
@@ -65,8 +63,7 @@ As an incentive to work towards certain stretch goals we would expect a flat fee
 
 
 ## Milestones
-[//]: # (Breakdown of phases of development, with estimated delivery times)
-[//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
+
 | Production Phase | Completion Date |
 | --- | --- |
 | Planning Phase | 29/04/25 |
