@@ -83,14 +83,12 @@ The client is looking for an FPS template that can be used for their classes
 
 ### Expectations
 [//]: # (What are the client's expectations?)
-* Project delivered on time
-* Weekly updates on progress
-* Communication with the client when design issues encountered
-* Quality transparent project management (add the client)
-* Does **not** require audio
-* Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+* The Project will be delivered on time
+* Communicate with the client on important updates
+* Our team will communicate with the client when issues are encountered
+* The client will be added to the project to ensure quality transparent project management
+* The game does not need any finalised assets, however greyboxes will be used as placeholders for characters and weapons
+* If time permits the game will have basic audio components in place
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
