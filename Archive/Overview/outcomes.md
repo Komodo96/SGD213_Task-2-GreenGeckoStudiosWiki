@@ -1,6 +1,5 @@
-# TOP HEADING 
+# Outcomes
 
-## Dummy Heading
 The outcomes to this project should be that we have a working prototype for a doom-like FPS Template that can be easily edited by the player.
 more specifically, there should be the following with the creation and completion of the project:
 All Weapon Functions should be modifiable through the editor.
