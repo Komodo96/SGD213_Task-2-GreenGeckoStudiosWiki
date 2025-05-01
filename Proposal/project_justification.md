@@ -105,16 +105,17 @@ The client is looking for an FPS template that can be used for their classes
 
 ### Risks
 [//]: # (What are the risks of this project)
-* Unity and C# are excellent prototyping tools, but working quickly often means less than perfect code
-    * Project may not be fit for use in further development
-    * Bugs may be present in prototype due to the short turn-around
-    * Working quickly is error-prone
+* The potential risks that may occur for one or more of us are:
+* Logistical issues like the power going out
+* Team members getting sick or injured and being unable to work on the project
+* Internet or connection issues
+* Due to our teams relatively newer exeperience in coding there may be bugs present in the prototype
 
 ### Risk Management
 [//]: # (How are you managing the mentioned risks)
-* All coding will aim to be designed in an extensible manner
+* Using source control we will ensure our code is safe and usable at all times for all team members and other team members can help if needed 
+* All coding will be thoroughly checked and insured to adhere to the correct coding standards
 * Testing will be undertaken throughout prototype development
-* Using source control we will ensure our code is safe and usable at all times
 
 ---
 
