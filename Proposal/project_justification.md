@@ -57,13 +57,16 @@ The client is looking for an FPS template that can be used for their classes
 > As with other assets, feel free to use placeholder/greybox for the guns in the prototype.
 
 * Do we need the player to start with both weapons or pick a new one up to be able to swap?
->
+> The player should start with both weapons.
 
-* Are there any other pickups you would like implemented?
->
+* Are there any pickups you would like implemented e.g. Ammo, Health, Grenades?
+> All of the above would be great as pickups for the prototype! Should the time become an issue, please prioritize Health over Grenades and Ammo (as weapons should have an option of having unlimited ammo via an Editor) in that order.
+
+* Does the player need to reload?
+> The player should be able to reload, though no animation is required at this stage - a simple refresh of the current ammo is sufficient.
 
 * Are the AI already in the level or do they spawn in?
->
+> Whatever enemies are in present in the level should be there from the start as I do not need an enemy spawning system at the moment. At most, respawning enemies should be available as a simple debug feature (ie: Pressing O would respawn any enemies in the level) - something that won't make it to release build but can be useful for the designer to test.
 
 ---
 
