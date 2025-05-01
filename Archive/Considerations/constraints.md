@@ -1,4 +1,3 @@
-# TOP HEADING 
+# Constraints
 
-## Dummy Heading
 As we are Games Programmers that are not as experienced with programming games, it is important to understand the constraints that come with them. the one that is most obvious is the deadline of the 1st of June; but the more important ones include due to the fact that we are not as experienced means that we will not be the best at programing in the required content, and with that, may come some mistakes that would not normally effect an individual. this can be mitigated by peer reviewing the code to make sure it is functional. another constraint is the fact that we all can not work at the same time, we may only be able to concentrate on the work for less than our other peers, and that we can only work on it so much, so it is good to make sure that the other people are aware of these limitations and ensure we put time in at appropriate times or at the very least, at times that we can work on it.
