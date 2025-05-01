@@ -98,7 +98,7 @@ The client is looking for an FPS template that can be used for their classes
 [//]: # (What are you assuming based on client responses)
 * The UI design will be fairly basic with simple shapes being utilised
 * Health will be indicated by a bar for the player and the ammo will be indicated by numbers on the HUD
-* The AI is already in the level/Spawned in?
+* The enemy AI is already present in the level
 
 ---
 ## Risks
