@@ -8,7 +8,8 @@
 The client is looking for an FPS template that can be used for their classes
 * The player needs to be able to walk around and jump
 * The game needs 2 weapons 
-* The gameplay should be fast-paced, quick to gain feedback and quick to retry
+* The player needs to be able to throw a damage dealing grenade
+* The client needs a basic enemy AI that can walk around and look at the player
 
 ### Communication
 * Do you have a name for the project or would you like our team to come up with a name?
