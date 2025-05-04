@@ -7,3 +7,4 @@ There should be at least a main menu with a start and exit button, in addition t
 A functional but very simple AI should be present with the ability to look at the player and walk around in a patrol pattern.
 The player will have the ability to Jump in addition to being able to walk around the level.
 Finally, the player will have a Grenade that can be thrown, dealing AoE damage to enemies within the vicinity.
+The prototype will aim to be as bug free as possible and with as much design transparency as needed for the client to collaborate with us.
