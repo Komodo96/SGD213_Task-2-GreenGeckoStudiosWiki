@@ -99,6 +99,7 @@ The client is looking for an FPS template that can be used for their classes
 * The UI design will be fairly basic with simple shapes being utilised
 * Health will be indicated by a bar for the player and the ammo will be indicated by numbers on the HUD
 * The enemy AI is already present in the level
+* The controls will be editable but will follow modern FPS standards by default E.G. left click for shoot, space for jump and R for reload...
 
 ---
 ## Risks
