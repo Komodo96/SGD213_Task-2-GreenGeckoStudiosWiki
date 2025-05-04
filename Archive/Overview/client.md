@@ -9,9 +9,4 @@ Daniel McConnell
 > The next few thing is what the client does not expect to have in the project are a Simple HUD with Ammo and HP, Simple Audio Setup for Interactions.
 
 
-The client wants to blah blah blah, etc etc. 
-Specifically, she said that:
-> I want to be quoted in your Markdown wiki.
-> This is how you do it.
-> Did you know that?
-> Learn more about Markdown at: [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
+
