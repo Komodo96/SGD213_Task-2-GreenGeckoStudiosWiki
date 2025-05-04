@@ -1,7 +1,6 @@
 # Architecture
 
-## Overview
-This section of the wiki discusses the technical requirements for RUIN, what architectural options we have considered to deliver the project, a specific architecture which we will implement, and the reasoning behind the choice.
+We have considered the singleton and component methods of architecture and have opted for a component method (option 2) however, we have also opted to include elements of state and interface style where appropriate with regards to state being more appropriate for AI systems and functionality and interface style being more appropriate for the UI system.
 
 ## Contents
 [//]: # (You need to populate these pages, they are part of your grades)
