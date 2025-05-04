@@ -1,4 +1,4 @@
 # Concept
 
 
-a Gameplay Template for a Doom-Like FPS with modularity.
+A Game Template for a classic style FPS with a focus on modularity.
