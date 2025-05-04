@@ -58,7 +58,7 @@ Read the design justification [here](project_justification.md).
 
 ### Schedule of Rates
 Our team members hourly rate will be $30 per hour for 20 hours per week working on the project. 
-As an incentive to work towards certain stretch goals we would expect a flat fee of $200 per stretch goal upon completion. 
+As an incentive to work towards certain stretch goals we would expect a flat fee of $250 per stretch goal upon completion. 
 
 
 ## Milestones
