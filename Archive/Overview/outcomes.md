@@ -1,7 +1,7 @@
 # Outcomes
 
-The outcomes to this project should be that we have a working prototype for a doom-like FPS Template that can be easily edited by the player.
-more specifically, there should be the following with the creation and completion of the project:
+The outcomes to this project should be that we have a working prototype for a classic FPS Template that can be easily edited by the client.
+Specifically, there should be the following with the creation and completion of the project:
 All Weapon Functions should be modifiable through the editor.
 there should be at least a main menu with a start and exit button, in addition to settings and a HUD.
 A functional but very simple AI should be present with the ability to look at the player and walk around in a patrol pattern.
