@@ -1,6 +1,6 @@
 # Audience
 
 ## Primary Audience
-Client - Daniell McDonnel
+Client - Daniell McConnel
 ## Potential Audience:
 Teens, Doom-Like FPS lovers.
