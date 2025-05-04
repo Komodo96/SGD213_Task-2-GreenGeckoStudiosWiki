@@ -1,16 +1,3 @@
-# TOP HEADING
+Architecture options
 
-You should consider 3 different architecture options in here.
-
-You **don't** need UML in here.
-
-You should also justify your thinking.
-
-Hot tip: use our text book for guidance.
-
-Component Pattern.
-
-Singleton Pattern.
-
-## Dummy Heading
-Fill this with information.
+We have considered the singleton and component methods of architecture and have opted for a component method (option 2) however, we have also opted to include elements of state and interface style where appropriate with regards to state being more appropriate for AI systems and functionality and interface style being more appropriate for the UI system.
