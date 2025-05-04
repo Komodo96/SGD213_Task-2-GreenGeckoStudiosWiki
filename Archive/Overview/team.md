@@ -1,5 +1,7 @@
 # Team 
 
-Glenn Theunissen,
-Chris Oliver,
+Glenn Theunissen
+
+Chris Oliver
+
 Brandyn Petrillo
